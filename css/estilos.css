@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+
+a{
+    color: white;
+    background-color: blueviolet;
+}
+
+img{
+    border: 2px solid blueviolet;
+    width: 600px;
+    height: 500px;
+    display: block;
+}
